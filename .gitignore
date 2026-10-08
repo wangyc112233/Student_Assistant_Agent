@@ -1,0 +1,21 @@
+# 虚拟环境
+venv/
+.venv/
+
+# 日志文件
+*.log
+
+# 记忆文件（你的nanoclaw memory目录，不要上传对话记忆）
+memory/
+
+# IDE
+.vscode/
+.idea/
+
+# 密钥配置文件！非常重要，不要上传api key、token
+config.yaml
+.env
+
+# 系统文件
+.DS_Store
+Thumbs.db
